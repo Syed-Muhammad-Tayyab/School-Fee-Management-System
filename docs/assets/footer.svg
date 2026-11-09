@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0d4a6b"/><stop offset=".5" stop-color="#0b2a44"/><stop offset="1" stop-color="#06121f"/></linearGradient></defs>
+  <rect width="1200" height="120" rx="16" fill="url(#g)"/>
+  <text x="600" y="55" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#9be7ff">Developed by Syed Muhammad Tayyab</text>
+  <text x="600" y="88" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#cfefff">Laravel 11 · Razorpay · MySQL · Bootstrap 5 — made with care ♥</text>
+  <rect x="0" y="112" width="1200" height="4" fill="#56c4f0"><animate attributeName="width" values="0;1200;0" dur="6s" repeatCount="indefinite"/></rect>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="640" height="400" rx="14" fill="#f4f9fc" stroke="#56c4f0" stroke-width="2"/>
+  <rect width="640" height="44" rx="14" fill="#0b2a44"/><rect y="24" width="640" height="20" fill="#0b2a44"/>
+  <circle cx="22" cy="22" r="6" fill="#ff5f56"/><circle cx="42" cy="22" r="6" fill="#ffbd2e"/><circle cx="62" cy="22" r="6" fill="#27c93f"/>
+  <text x="320" y="28" text-anchor="middle" fill="#fff" font-size="14" font-weight="600">Ethereal Echoes · Fees Payment</text>
+  
+  <text x="40" y="92" font-size="22" font-weight="700" fill="#e3190f">School Fees Payment</text>
+  <g fill="#fff" stroke="#9bb8c7"><rect x="40" y="110" width="270" height="34" rx="6"/><rect x="330" y="110" width="270" height="34" rx="6"/><rect x="40" y="160" width="270" height="34" rx="6"/><rect x="330" y="160" width="270" height="34" rx="6"/><rect x="40" y="210" width="270" height="34" rx="6"/><rect x="330" y="210" width="270" height="34" rx="6"/><rect x="40" y="260" width="560" height="34" rx="6"/></g>
+  <g fill="#6b8796" font-size="13"><text x="52" y="132">Student Name</text><text x="342" y="132">Email</text><text x="52" y="182">Mobile</text><text x="342" y="182">Class (1-12)</text><text x="52" y="232">Fees per month</text><text x="342" y="232">Total months</text><text x="52" y="282">Address</text></g>
+  <rect x="40" y="318" width="170" height="40" rx="8" fill="#56c4f0"/><text x="125" y="344" text-anchor="middle" fill="#06121f" font-weight="700" font-size="15">Pay with Razorpay</text>
+  <rect x="226" y="318" width="170" height="40" rx="8" fill="none" stroke="#7798a6" stroke-width="2"/><text x="311" y="344" text-anchor="middle" fill="#7798a6" font-weight="700" font-size="15">Download Receipt</text>
+</svg>
